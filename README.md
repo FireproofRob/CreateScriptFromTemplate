@@ -2,6 +2,8 @@
 
 A Unity Editor utility providing a more flexible system for creating new scripts (or any other sort of text file) than Unity's built-in "Create->C# Script" option.
 
+![alt text](https://github.com/FireproofRob/CreateScriptFromTemplate/blob/master/Example.png "Example")
+
 ##Usage
 Copy into an Editor folder somewhere in your Unity project. Use it by right-clicking somewhere in your project view and selecting "Create->Script From Template...". That'll open a dialogue box which allows you which template you want to use.
 
