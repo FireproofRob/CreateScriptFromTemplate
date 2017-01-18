@@ -1,0 +1,20 @@
+&&MenuName=C#/Editor/CustomInspector&&
+//
+// ##ClassName##.cs
+// Copyright (c) ##Year## Fireproof Studios, All Rights Reserved
+//
+
+using UnityEngine;
+using System.Collections.Generic;
+using UnityEditor;
+
+[CustomEditor(typeof(##EditorTargetClass##))]
+public class ##ClassName## : Editor 
+{
+    public override void OnInspectorGUI()
+    {
+        ##EditorTargetClass## myTarget = (##EditorTargetClass##)target;
+        
+        DrawDefaultInspector();
+    }
+}

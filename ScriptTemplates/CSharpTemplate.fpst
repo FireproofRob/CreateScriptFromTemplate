@@ -1,0 +1,13 @@
+&&MenuName=C#/Class&&
+//
+// ##ClassName##.cs
+// Copyright (c) ##Year## Fireproof Studios, All Rights Reserved
+//
+
+using UnityEngine;
+using System.Collections.Generic;
+
+public class ##ClassName##
+{
+
+}

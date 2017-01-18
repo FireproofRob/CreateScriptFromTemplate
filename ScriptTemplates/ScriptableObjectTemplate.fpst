@@ -1,0 +1,15 @@
+&&MenuName=C#/ScriptableObject&&
+//
+// ##ClassName##.cs
+// Copyright (c) ##Year## Fireproof Studios, All Rights Reserved
+//
+
+using UnityEngine;
+using UnityEditor;
+using System.Collections.Generic;
+
+[CreateAssetMenu(menuName="##ClassName##", fileName="##ClassName##")]
+public class ##ClassName## : ScriptableObject
+{
+	
+}
